@@ -42,7 +42,7 @@ Se incluyen consultas, funciones personalizadas, transacciones e índices, demos
 ## 🧪 Evidencias
 -  Bandas que empiezan por `"A"` (expresión regular)
 # EVIDENCIA
-![Consulta 1](imagenes/consulta1.jpeg)
+![Consulta 1](imagenes/consulta1.png)
 
 
 
