@@ -53,8 +53,7 @@ Se incluyen consultas, funciones personalizadas, transacciones e índices, demos
 - Asistentes que escuchan `"Rock"`
   - ![Consulta 1](imagenes/consulta4.png)
 
-- Conteo de presentaciones por escenario
-
+- Promedio de duración de presentaciones  
 -  ![Consulta 1](imagenes/consulta5.png)
 
 
