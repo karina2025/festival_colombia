@@ -38,15 +38,24 @@ Se incluyen consultas, funciones personalizadas, transacciones e índices, demos
 - ✅ Índice compuesto en `asistentes.ciudad` y `edad`, consulta menores de 30
 
 ---
-
+### 1. Consultas
 ## 🧪 Evidencias
 -  Bandas que empiezan por `"A"` (expresión regular)
 # EVIDENCIA
 ![Consulta 1](imagenes/consulta1.png)
 
+-  Asistentes con apellido `"Gómez"`  
+![Consulta 1](imagenes/consulta2.png)
 
+- Asistentes que escuchan `"Rock"`
+- ![Consulta 1](imagenes/consulta3.png)
 
+- Asistentes que escuchan `"Rock"`
+  - ![Consulta 1](imagenes/consulta4.png)
 
-### 1. Consultas
+- Conteo de presentaciones por escenario
+
+-  ![Consulta 1](imagenes/consulta5.png)
+
 
 
