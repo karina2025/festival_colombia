@@ -40,6 +40,9 @@ Se incluyen consultas, funciones personalizadas, transacciones e índices, demos
 ---
 
 ## 🧪 Evidencias
+-  Bandas que empiezan por `"A"` (expresión regular)
+-  
+
 
 ### 1. Consultas
 
